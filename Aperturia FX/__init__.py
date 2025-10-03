@@ -19,9 +19,9 @@ along with this program; if not, see https://www.gnu.org
 
 bl_info = {
     "name": "Aperturia FX",
-    "author": "Radikal",
-    "version": (1, 0, 1),
-    "blender": (4, 4, 0),
+    "author": "Arvo Andre Radik",
+    "version": (1, 0, 2),
+    "blender": (4, 5, 0),
     "location": "Node Editor > Add > Compositor > Aperturia FX",
     "description": "Fast lens effect node for Compositor",
     "category": "Compositing"
